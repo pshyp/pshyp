@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pshyp [Peter Kamau]
-- I am currently studying javascript for front end development.
+- Creating
 
 
 <!---
